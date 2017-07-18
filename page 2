@@ -10,9 +10,9 @@
 	<body>
 		<div id="contents">
 			<div id = "headblock">
-				<h1>Jeff Shaffer</h1>
+				<h1>Noah Andrulis</h1>
 				<address>
-					<a href="mailto:jeff@fiberspark.com">jeff@fiberspark.com</a>
+					<a href="mailto:noah.andrulis@gmail.com">noah.andrulis@gmail.com</a>
 				</address>
 				<div>
 					<ul id="navBar">
@@ -34,7 +34,7 @@
 				<div id = "clearer"></div>
 			</div>
 
-			<p id = "footer">&copy; 2017, Jeff Shaffer</p>
+			<p id = "footer">&copy; 2017, Noah Andrulis</p>
 
 		</div>	
 	</body>
